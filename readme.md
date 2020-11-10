@@ -6,8 +6,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
+1. -bron 1 screenshot van https://9gag.com/ geraadpleegd 09 November 2020.
+2. -bron 2 screenshot van https://9gag.com/ geraadpleegd 09 November 2020.
 3. -...-
 
 
@@ -64,6 +64,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 -uitwerken voor de 1e werkgroep - eind van de eerste week-
 
+<img src="images/9gagcopy.svg" width="375px" alt="9gag">
+
 
 
 ## Intake (week 1)
@@ -77,8 +79,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/screen_ 2020-11-10_at_11.30" width="80%" alt="omschrijving van de pagina">
+<img src="images/9gag_home_b.jpeg" alt="9gag_homepage">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/small_.jpeg" width="375px" alt="omschrijving van de pagina">
+<img src="images/small_.jpeg" width="375px" alt="9gag homepage voor mobiel">
