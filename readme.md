@@ -6,8 +6,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1 screenshot van https://9gag.com/ geraadpleegd 09 November 2020.
-2. -bron 2 screenshot van https://9gag.com/ geraadpleegd 09 November 2020.
+1. -bron 1 screenshot van https://www.tesla.com/ geraadpleegd 09 November 2020.
+2. -bron 2 screenshot van https://www.tesla.com/ geraadpleegd  November 2020.
 3. -...-
 
 
@@ -64,23 +64,24 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 -uitwerken voor de 1e werkgroep - eind van de eerste week-
 
-<img src="images/9gagcopy.svg" width="375px" alt="9gag">
+<img src="images/tesla_home_upd.jpg" width="375px" alt="tesla_homepage">
 
 
 
 ## Intake (week 1)
 -uitwerken voor de kick-off werkgroep - begin van de eerste week-
+- ik ben van 9gag.com naar tesla.com gegaan omdat de website minder goed hielp met het huidige project.-
 
 **Je startniveau:** -Rode piste
 
 **Je focus:** - responsive plane maar kan zijn dat ik wissel in de derde week.
 
-**Je opdracht:** -https://9gag.com/
+**Je opdracht:** -https://tesla.com/
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/9gag_home_b.jpeg" alt="9gag_homepage">
+<img src="images/tesla_home.jpeg" width="375px" alt="tesla_hompage_for_desktop">
 
 **Screenshot(s) van de tweede pagina (small screen):**
+<img src="images/tesla_home_phone.jpeg" width="375" alt="tesla_hompage_for_phone">
 
-<img src="images/small_.jpeg" width="375px" alt="9gag homepage voor mobiel">
